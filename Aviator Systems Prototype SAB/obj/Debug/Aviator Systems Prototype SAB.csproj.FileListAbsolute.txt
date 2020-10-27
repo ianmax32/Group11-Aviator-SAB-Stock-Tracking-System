@@ -1,0 +1,46 @@
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Aviator Systems Prototype SAB.exe.config
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Aviator Systems Prototype SAB.exe
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Aviator Systems Prototype SAB.pdb
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.csprojAssemblyReference.cache
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.add.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Form1.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.login.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.management.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Packaging.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Properties.Resources.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.StockControl.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.viewOrders.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.csproj.GenerateResource.cache
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.csproj.CoreCompileInputs.cache
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.exe
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.pdb
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.UpdateStock.resources
+C:\Users\Nai\source\repos\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Transportation.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Aviator Systems Prototype SAB.exe.config
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Aviator Systems Prototype SAB.exe
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Aviator Systems Prototype SAB.pdb
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.add.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Form1.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.login.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.management.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Packaging.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Properties.Resources.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.StockControl.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.Transportation.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.UpdateStock.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.viewOrders.resources
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.csproj.GenerateResource.cache
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.csproj.CoreCompileInputs.cache
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.exe
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.pdb
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.csprojAssemblyReference.cache
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\MySql.Data.dll
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Google.Protobuf.dll
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\Renci.SshNet.dll
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\MySql.Data.xml
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator Systems Prototype SAB.csproj.CopyComplete
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\SAB System.mdf
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\bin\Debug\SAB System_log.ldf
+C:\Users\masag\Desktop\Aviator Systems Prototype SAB\Aviator Systems Prototype SAB\obj\Debug\Aviator_Systems_Prototype_SAB.reports.resources
